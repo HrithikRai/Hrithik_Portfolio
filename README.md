@@ -17,14 +17,14 @@ Hey there...Glad you landed here...These are some of my Data Science Projects.
 
 ## Visualizations and Inferences:
 ![](/Images/Cond%20variables.png)
-Relation between **Continuous variables and Demand.**
+### Relation between **Continuous variables and Demand.**
 * Higher the windspeed, lower the demand
 * Temperature and Demand seems to be directly correlated
 * Plots of temp and atemp are almost identical pointing out to some correlation, therefore a multicollinearity check is reqd.
 * Humidity and Windspeed affects demand but need more statistical analysis like correlation coefficient check
 
 ![](/Images/Categori%20variables.png)
-Relation between **Categorical variables and Demand.**
+### Relation between **Categorical variables and Demand.**
 * Weekday doesn't affect the demand therefore can be dropped
 * Year doesnt affect since only 2 years given
 * Hourly Data : Park bikes near public transport in morning and office premises in the afternoon
